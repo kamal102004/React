@@ -1,0 +1,74 @@
+.form1{
+  display : flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 55vh;
+  width: 25vw;
+  gap: 20px;
+  border-radius: 20px;
+  box-shadow:
+  4.8px 5.1px 6.9px rgba(0, 0, 0, 0.067),
+  11.2px 11.7px 15.9px rgba(0, 0, 0, 0.097),
+  20.1px 21.1px 28.6px rgba(0, 0, 0, 0.12),
+  33.4px 35px 47.5px rgba(0, 0, 0, 0.14),
+  55px 57.7px 78.3px rgba(0, 0, 0, 0.163),
+  96.2px 100.8px 136.8px rgba(0, 0, 0, 0.193),
+  208px 218px 296px rgba(0, 0, 0, 0.26)
+;
+}
+.form2{
+  display : flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 70vh;
+  width: 30vw;
+  gap: 15px;
+  border-radius: 20px;
+  box-shadow:
+  4.8px 5.1px 6.9px rgba(0, 0, 0, 0.067),
+  11.2px 11.7px 15.9px rgba(0, 0, 0, 0.097),
+  20.1px 21.1px 28.6px rgba(0, 0, 0, 0.12),
+  33.4px 35px 47.5px rgba(0, 0, 0, 0.14),
+  55px 57.7px 78.3px rgba(0, 0, 0, 0.163),
+  96.2px 100.8px 136.8px rgba(0, 0, 0, 0.193),
+  208px 218px 296px rgba(0, 0, 0, 0.26)
+}
+body{
+  margin-top: 100px;
+  background-image: url("https://www.pixelstalk.net/wp-content/uploads/2016/11/Education-Images-HD.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto;
+  flex-direction: column;
+  display : flex;
+  justify-content:center;
+  align-items: center;
+  text-align: center;
+}
+.i{
+    height: 11%;
+    width: 60%;
+    border-radius: 2.5px;
+    background-color: lightyellow;
+    font-size: large;
+}
+.b:hover{
+    background-color: antiquewhite;
+}
+.b{
+  background-color: lightgoldenrodyellow;
+  height:30px;
+  width:100px;
+  border-radius: 5px;
+  font-size: large;
+}
+.hyp
+{
+  text-decoration: none;
+  font-size: x-large;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+
+}

@@ -1,0 +1,13 @@
+/* LoginForm.css */
+
+.login-form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* This makes the container take the full height of the viewport */
+  }
+  
+  .login-form {
+    text-align: center;
+  }
+  
